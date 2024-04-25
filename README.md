@@ -1,5 +1,11 @@
 # Phone Horizone
 
+## Thành viên
+
+- Nguyễn Trần Anh Khoa - 2104110042 - K15DCPM01
+- Nguyễn Viết Long Sơn - 2104110006 - K15DCPM01
+- Ngô Trung Nghĩa - 2104110019 - K15DCPM01
+
 ## Mô tả
 
 - Ứng dụng web bán điện thoại
